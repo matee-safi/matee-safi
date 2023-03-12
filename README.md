@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">A passionate Full stack developer from Afghanistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shayan1234554321&label=Profile%20views&color=0e75b6&style=flat" alt="shayan1234554321" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matee-safi&label=Profile%20views&color=0e75b6&style=flat" alt="matee-safi" /> </p>
 
 - 💬 Ask me about **React.js , Node.js and Ruby on rails**
 - 📫 How to reach me **https://www.linkedin.com/in/matee-safi-755421243/**
