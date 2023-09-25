@@ -1,5 +1,5 @@
 
-<img src="./header.png" />
+<img src="./header.webp" />
 <h1 align="center"> 
     <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=fc9803&width=435&lines=Hi 👋, I'm Matee" alt="Typing SVG" />
 </h1>
